@@ -1,7 +1,3 @@
-# pALwORLD-GameTweaks
-main.lua file
-
-´´´lua
 -- Author: yakuzadeso, modified by miguelgargallo
 
 --------------------------------------------------------------------------------
@@ -525,4 +521,3 @@ function DoTweaks()
 
 	print("[GameTweaks] Did tweaks successfully!")
 end
-```
